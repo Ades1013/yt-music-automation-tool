@@ -1,0 +1,4 @@
+yt-dlp
+tinytag
+PyPDF2
+python-docx
