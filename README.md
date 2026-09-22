@@ -13,6 +13,4 @@ Automatización Web: Se integra con yt-dlp para ejecutar búsquedas automáticas
 Multithreading: La interfaz gráfica (Tkinter) opera de forma fluida y sin bloqueos gracias a la implementación de hilos en segundo plano para las descargas concurrentes.
 
 Tecnologías utilizadas
-Python 3, Tkinter, yt-dlp, Multithreading, Regex."# yt-music-automation-tool" 
-"# yt-music-automation-tool" 
-"# yt-music-automation-tool" 
+Python 3, Tkinter, yt-dlp, Multithreading, Regex.
