@@ -1,0 +1,18 @@
+# --- Tus reglas de compilación y cookies ---
+__pycache__/
+build/
+dist/
+*.exe
+*.spec
+cookies.txt
+
+# --- Archivos de Música y Datos Locales ---
+*.csv
+*.mp3
+*.m4a
+*.aac
+*.mp4
+
+# --- Entornos virtuales de Python ---
+.venv/
+venv/
